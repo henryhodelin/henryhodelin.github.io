@@ -2,9 +2,9 @@
 
 ## Languages
 
-- Spanish
-- English
-- Portuguese
+- Spanish     (C1)
+- English     (B2)
+- Portuguese  (B2)
 
 ## Education 
 - M.S Physics  | Universidade Federal de Pernambuco (2013 - 2015)
@@ -12,7 +12,18 @@
 
 ## Work Experience and Institutional connection
 
-- Universidad de Orientes
+- Universidad Federal de Pernambuco
+  -  Position: PhD Student
+
+- Universidad Federal de Pernambuco
+  - Position: MS Student
+
+- Universidad de Oriente
+  - Position: Professor
+
+- Universidad de Oriente
+  - Position: Student:
+    
 
 
 ### Projects
