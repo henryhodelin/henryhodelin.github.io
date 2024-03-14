@@ -10,7 +10,7 @@
 - M.S Physics  | Universidade Federal de Pernambuco (2013 - 2015)
 - B.S. Physics  | Universidad de Oriente (2007 - 2012)
 
-## Work Experience
+## Work Experience and Institutional connection
 
 - Universidad de Orientes
 
@@ -23,7 +23,38 @@ fdasfdaf
 
 ## Papers
 
-sdfasdfa
+- GONZALEZ, H. L. V. ; Serrano, L. M ; López, J. P. ;
+SHOMBERT, H. H. . Estudio del oleaje generado por un
+huracán de categoría 5 en la costa sur de las provincias
+orientales de Cuba. Ciencias de la Tierra y el Espacio, v.
+15-1, p. 1-11, 2014.
+- GONZALEZ, H. L. V. ; Serrano, L. M ; SHOMBERT, H. H. .
+Análisis comparativo de la Velocidad Extrema del Viento en
+la Región Suroriental de Cuba.. In: Congreso Cubano de
+Meteorología, 2011, Habana. VI Congreso Cubano de
+Meteorología.. Habana: GEOTEC, 2011.
+
+## Events 
+
+- Congreso Cubano de Meteorología. Análisis comparativo de
+la Velocidad Extrema del Viento en la Región Suroriental de
+Cuba.. 2011. (Congress).
+- Weather Modiﬁcation Association Annual Meeting. Non -
+intentional Weather Modiﬁcation in the Gulf of Mexico: A
+brief case study. 2011. (Congress).
+- XII Simposio de la Sociedad Cubana de Física.Inﬂuencia del
+contenido de Bi_2O_3 en la relajación de la conductividad
+del sistema ZnO. 2011. (Simpósio).
+
+## Orientations and supervisions completed
+
+- Julio C. Rizo. ASTROTIDE: Aplicación para el Análisis y
+Pronóstico de la Marea Astronómica. 2013. Trabalho de
+Conclusão de Curso. (Graduação em Bacharelado en
+Ciencias de la Computación) - Universidad del Oriente Cuba.
+Orientador: Henry Hodelin Shombert.
+
+
 
 ### Hobbies
 
