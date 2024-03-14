@@ -1,7 +1,8 @@
 # Data Scientist
 
 ### Education 
-Physics, MsC 
+- M.S Physics  | Universidade Federal de Pernambuco (2013 - 2015)
+- B.S. Physics  | Universidad de Oriente (2007 - 2012)
 
 ### Work Experience
 
