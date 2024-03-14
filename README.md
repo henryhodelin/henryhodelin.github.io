@@ -23,7 +23,7 @@
   - Position: MS Student
 
     
-- Universidad de Oriente------------------------Santiago, Cuba (08/2012-07/2013)
+- Universidad de Oriente------------------------------------Santiago, Cuba (08/2012-07/2013)
   - Position: Professor
     Research and development
    
