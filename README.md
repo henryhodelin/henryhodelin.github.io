@@ -10,20 +10,23 @@
 - M.S Physics  | Universidade Federal de Pernambuco (2013 - 2015)
 - B.S. Physics  | Universidad de Oriente (2007 - 2012)
 
-## Work Experience and Institutional connection
+## Work Experience and Institutional affiliation
 
-- Universidad Federal de Pernambuco
+- Universidad Federal de Pernambuco            Pernambuco, Brazil (08/2015-08/2017) 
   -  Position: PhD Student
 
-- Universidad Federal de Pernambuco
+- Universidad Federal de Pernambuco            Pernambuco, Brazil (08/2015-08/2017) 
+  -  Position: PhD Student
+
+
+- Universidad Federal de Pernambuco            Pernambuco, Brazil (08/2013-08/2015) 
   - Position: MS Student
 
-- Universidad de Oriente
-  - Position: Professor
-
-- Universidad de Oriente
-  - Position: Student:
     
+- Universidad de Oriente                       Santiago, Cuba (08/2012-07/2013)
+  - Position: Professor
+    Research and development
+   
 
 
 ### Projects
