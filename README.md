@@ -45,10 +45,10 @@ rugosidade em nanoﬁos de níquel)
 - SQL
   - MySQL. PostgreSQL. SQLite. 
 - Artificial Inteligence
-  - Frameworks foundational
-    - Tensorflow. Pythorch  
-  - LLM
-    -  Ollama. Langchain
+  - Foundational Frameworks 
+    - Tensorflow. Pythorch.  
+  - LLMs
+    -  Ollama. Langchain.
 
 ### Data Science Projects Sample
 - Data Story
