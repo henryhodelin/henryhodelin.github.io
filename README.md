@@ -2,7 +2,7 @@
 
 ## Languages
 
-- Spanish     (C1)
+- Spanish     (C1) Native Language
 - English     (B2)
 - Portuguese  (B2)
 
@@ -30,13 +30,15 @@
   - Position: Professor
     - fdjpoinasodnfoad
    
-
-
-### Projects
-- EEG Band Discovery
-
 ### Technologies and skills
-fdasfdaf
+- 
+
+### Data Science Projects Sample
+- Data Story
+  - kjfoasd
+- Scoped Skill
+  - çlfdoasid
+
 
 ## Papers
 
