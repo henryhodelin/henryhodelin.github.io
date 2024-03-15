@@ -1,6 +1,5 @@
 # Data Scientist
 
-
 ## Languages
 
 - Spanish     (C1) Native Language
@@ -41,7 +40,15 @@ rugosidade em nanoﬁos de níquel)
     - Mathematical Modeling of Fluids.
    
 ### Technologies and skills
-- 
+- Python
+  - Pandas. Seaborn. Matplotlib. Plotly. Gradio.  
+- SQL
+- Artificial Inteligence
+  - Frameworks foundational
+    - Tensorflow. Pythorch  
+  - LLM
+    -  Ollama
+    -  Langchain
 
 ### Data Science Projects Sample
 - Data Story
@@ -50,6 +57,10 @@ rugosidade em nanoﬁos de níquel)
   - çlfdoasid
 - Full repository
   - ljfoasodfa
+
+## Talks
+
+- Nov. 2022. Machine learning approach to nonlinearity management in optical media”, at: UFPE-DF Colloquium in Brazil (https://www.youtube.com/watch?v=WtNqO2yZN9Y&t=3341s)
 
 
 ## Papers
@@ -89,4 +100,6 @@ Orientador: Henry Hodelin Shombert.
 
 ### Hobbies
 
-dasdfasdf
+Chess / Guitar / Dancing
+Learning languages / Music
+Martial Arts / Beisbol
