@@ -1,10 +1,5 @@
 # Data Scientist
 
-| ## Education                                                             | ## Languages                         |
-|--------------------------------------------------------------------------|--------------------------------------|
-| - M.S Physics  | Universidade Federal de Pernambuco (2013 - 2015)        | - Spanish     (C1) Native Language   |
-| - B.S. Physics  | Universidad de Oriente (2007 - 2012)                   | - English     (B2)                   |
-|                                                                          | - Portuguese  (B2)                   |
 
 ## Languages
 
