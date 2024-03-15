@@ -15,10 +15,14 @@
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2018-08/2023) 
   -  Position: PhD Student (Degree incompleted due to )
-     -  dasdfasdfad
+     -  Representation of Multiple Operators in Nonlinear Optics using a single functionally weighted  Neural Network
+        - Function representation using neural networks
+        - Solution of differential equations using neural networks (PINNs)
+        - Representation of Nonlinear Operators using neural networks (DeepONet)
+        - Representation of Multiple Nonlinear Operators using a single neural network  
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2015-08/2017) 
-  -  Position: PhD Student
+  -  Position: PhD Student (Degree incompleted due to )
      - çdjfoasodifsa 
 
 
@@ -44,6 +48,8 @@ rugosidade em nanoﬁos de níquel)
   - kjfoasd
 - Scoped Skill
   - çlfdoasid
+- Full repository
+  - ljfoasodfa
 
 
 ## Papers
