@@ -15,7 +15,7 @@
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2018-08/2023) 
   -  Position: PhD Student (Degree incompleted due to )
-     -  Representation of Multiple Operators in Nonlinear Optics using a single functionally weighted  Neural Network
+     -  Representation of Multiple Operators in Nonlinear Optics using a single functionally weighted  Neural Network (https://www.youtube.com/watch?v=WtNqO2yZN9Y&t=3341s)
         - Function representation using neural networks
         - Solution of differential equations using neural networks (PINNs)
         - Representation of Nonlinear Operators using neural networks (DeepONet)
