@@ -14,7 +14,7 @@
 ## Work Experience and Institutional affiliation
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2018-08/2023) 
-  -  Position: PhD Student
+  -  Position: PhD Student (Degree incompleted due to )
      -  dasdfasdfad
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2015-08/2017) 
@@ -24,12 +24,17 @@
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2013-08/2015) 
   - Position: MS Student
-    - fdjpoiaosdifad
+    - Micromagnetic simulation for studying the effects of roughness in nickel nanowires (Simulação micromagnética para o estudo dos efeitos de
+rugosidade em nanoﬁos de níquel)
 
     
 - Universidad de Oriente------------------------------------Santiago, Cuba (08/2012-07/2013)
   - Position: Professor
-    - fdjpoinasodnfoad
+    - Lecturer in Physics I (Mechanics), Physics II ( Thermodinamics and Molecular Physics), Experimental Physics II
+    - Simulation of Oceanic and Coastal Waves.
+    - Ocean-Atmosphere Interaction.
+    - Mathematical Modeling of Hurricanes.
+    - Mathematical Modeling of Fluids.
    
 ### Technologies and skills
 - 
