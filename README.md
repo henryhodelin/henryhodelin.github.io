@@ -49,6 +49,8 @@ rugosidade em nanoﬁos de níquel)
     - Tensorflow. Pythorch.  
   - LLMs
     -  Ollama. Langchain.
+- Complementary technologies
+  - Git. Github. Jupyter Notebooks. Latex.   
 
 ### Data Science Projects Sample
 - Data Story
