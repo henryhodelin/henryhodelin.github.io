@@ -14,7 +14,7 @@
 ## Work Experience and Institutional affiliation
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2018-08/2023) 
-  -  Position: PhD Student (Degree incompleted due to )
+  -  Position: PhD Student (Degree incompleted due to health problems)
      -  Representation of Multiple Operators in Nonlinear Optics using a single functionally weighted  Neural Network (https://www.youtube.com/watch?v=WtNqO2yZN9Y&t=3341s)
         - Function representation using neural networks
         - Solution of differential equations using neural networks (PINNs)
@@ -22,7 +22,7 @@
         - Representation of Multiple Nonlinear Operators using a single neural network  
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2015-08/2017) 
-  -  Position: PhD Student (Degree incompleted due to )
+  -  Position: PhD Student (Degree incompleted due to failing Quantum Mechanics PhD qualifying exams)
      - Research in superconductor vortex matter
 
 
