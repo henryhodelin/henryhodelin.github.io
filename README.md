@@ -23,7 +23,7 @@
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2015-08/2017) 
   -  Position: PhD Student (Degree incompleted due to )
-     - çdjfoasodifsa 
+     - Research in superconductor vortex matter
 
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2013-08/2015) 
