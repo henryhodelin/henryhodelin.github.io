@@ -10,7 +10,7 @@
 - M.S Physics  | Universidade Federal de Pernambuco (2013 - 2015)
 - B.S. Physics  | Universidad de Oriente (2007 - 2012)
 
-## Work Experience and Institutional affiliation
+## Work Experience and Institutional Affiliation
 
 - Universidad Federal de Pernambuco------------Pernambuco, Brazil (08/2018-08/2023) 
   -  Position: PhD Student (Degree incompleted due to health problems)
@@ -33,7 +33,7 @@ rugosidade em nanoﬁos de níquel)
     
 - Universidad de Oriente------------------------------------Santiago, Cuba (08/2012-07/2013)
   - Position: Professor
-    - Lecturer in Physics I (Mechanics), Physics II ( Thermodinamics and Molecular Physics), Experimental Physics II
+    - Lecturer in Physics I (Mechanics), Physics II ( Thermodynamics and Molecular Physics), Experimental Physics II
     - Simulation of Oceanic and Coastal Waves.
     - Ocean-Atmosphere Interaction.
     - Mathematical Modeling of Hurricanes.
@@ -43,12 +43,12 @@ rugosidade em nanoﬁos de níquel)
 - Python
   - Pandas. Seaborn. Matplotlib. Plotly. Gradio.  
 - SQL
+  - MySQL. PostgreSQL. SQLite. 
 - Artificial Inteligence
   - Frameworks foundational
     - Tensorflow. Pythorch  
   - LLM
-    -  Ollama
-    -  Langchain
+    -  Ollama. Langchain
 
 ### Data Science Projects Sample
 - Data Story
